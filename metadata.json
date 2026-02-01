@@ -1,0 +1,7 @@
+{
+  "name": "Elowen Skincare Coach",
+  "description": "A premium, personalized skincare companion that uses AI to analyze your unique skin needs, curate custom routines, and track your progress toward a healthy glow.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
